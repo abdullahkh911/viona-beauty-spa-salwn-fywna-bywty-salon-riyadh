@@ -1,0 +1,3 @@
+:HL["/viona-beauty-spa-salwn-fywna-bywty-salon-riyadh/_next/static/css/670a35266df67632.css","style"]
+:HL["/viona-beauty-spa-salwn-fywna-bywty-salon-riyadh/_next/static/css/22a8ec31586f8618.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"d","key":"viona-beauty-spa-salwn-fywna-bywty-salon-riyadh","siblings":["_not-found","_global-error"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"R3i2yq1myzsGD3NaUmw6w"}
